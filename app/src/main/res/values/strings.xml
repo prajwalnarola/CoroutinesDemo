@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CoroutinesDemo</string>
+    <string name="id">id</string>
+    <string name="title">Title</string>
+</resources>

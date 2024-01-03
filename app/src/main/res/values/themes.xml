@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.CoroutinesDemo" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.CoroutinesDemo" parent="Base.Theme.CoroutinesDemo" />
+
+    <style name="CustomProgressBarStyle" parent="@android:style/Widget.ProgressBar">
+        <item name="android:indeterminateTint">@color/custom_progress_bar_color</item>
+    </style>
+</resources>
